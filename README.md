@@ -101,8 +101,6 @@ npm run dev
    ```bash
    Open your browser and navigate to http://localhost:3000 (or your custom port) to view the Job Portal.
    ```
-## How to test the Application
-
 ## Contributing
 We welcome contributions to improve this project! Please feel free to fork the repository, make changes, and submit pull requests. If you have any suggestions or found a bug, please open an issue.
 
